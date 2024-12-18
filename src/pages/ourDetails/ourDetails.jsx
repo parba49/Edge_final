@@ -3,12 +3,7 @@ import { useParams } from 'react-router-dom';
 export default function OurDetailsPage() {
   const { name } = useParams();
   const data = [
-    {
-      id: 'sayem',
-      name: 'Abdullah Mohammad Sayem',
-      email: 'msayem089@gmail.com',
-      mobile: '01515675571',
-    },
+   
     {
       id: 'parba',
       name: 'Parba Das Gupta',
@@ -16,10 +11,10 @@ export default function OurDetailsPage() {
       mobile: '01625429395',
     },
     {
-      id: 'faisal',
-      name: 'Mohammad Faisal Fardin Chowdhury',
-      email: 'fardinfaisal005@gmail.com',
-      mobile: '01815246166',
+      id: 'sujay',
+      name: 'Sujay Chowdhury',
+      email: 'sujay@gmail.com',
+      mobile: '01998651059',
     },
   ];
   return (
