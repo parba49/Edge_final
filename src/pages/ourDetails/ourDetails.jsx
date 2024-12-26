@@ -7,7 +7,7 @@ export default function OurDetailsPage() {
     {
       id: 'parba',
       name: 'Parba Das Gupta',
-      email: 'iiuccsestudent@gmail.com',
+      email: 'parba@gmail.com',
       mobile: '01625429395',
     },
     {

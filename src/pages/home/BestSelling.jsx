@@ -6,23 +6,7 @@ import products from '../../data/best_sellers.json';
 import { IoStar } from 'react-icons/io5';
 
 export default function BestSelling() {
-  // const [products, setProducts] = useState([]);
-  // useEffect(() => {
-  //   (async () => {
-  //     try {
-  //       const { data } = await apiRequest.get('/best-sellers', {
-  //         headers: {
-  //           'x-rapidapi-key':
-  //             '26d680d24emsh15e5224cda17b80p1265adjsn6bac4110c86c',
-  //           'x-rapidapi-host': 'real-time-amazon-data.p.rapidapi.com',
-  //         },
-  //       });
-  //       setProducts(data?.data?.best_sellers);
-  //     } catch (error) {
-  //       console.log(error);
-  //     }
-  //   })();
-  // }, []);
+ 
   return (
     <section className='container mx-auto py-4'>
       <Title>Best Sellers</Title>

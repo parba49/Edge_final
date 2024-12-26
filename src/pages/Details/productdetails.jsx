@@ -167,16 +167,11 @@ export default function ProductDetailsPage() {
             <hr className="my-6 md:my-8 border-gray-200 dark:border-gray-800" />
 
             <p className="mb-6 text-gray-500 dark:text-gray-400">
-              Studio quality three mic array for crystal clear calls and voice
-              recordings. Six-speaker sound system for a remarkably robust and
-              high-quality audio experience. Up to 256GB of ultrafast SSD
-              storage.
+            24000LM&800% Ultra-bright: SEALIGHT 9005/Hb3 bulbs use double-sided prime enhanced chips to deliver up to 800% the illumination of stock bulbs, providing clear vision for nighttime driving and earlier detection of obstacles ahead, giving you a safe and reliable lighting experience
             </p>
 
             <p className="text-gray-500 dark:text-gray-400">
-              Two Thunderbolt USB 4 ports and up to two USB 3 ports. Ultrafast
-              Wi-Fi 6 and Bluetooth 5.0 wireless. Color matched Magic Mouse with
-              Magic Keyboard or Magic Keyboard with Touch ID.
+            No More Dark Spots: 9005 bulbs with 360°illumination and a 0.04-inch ultra-thin board design, 9005/HB3 fog lights ensure no black spots, shadows, or glare, so you can see clear the road ahead, also without blinding other drivers to ensures absolute safety for you and oncoming drivers
             </p>
           </div>
         </div>
